@@ -1,4 +1,10 @@
-# Password Strength Checker 💪🔐
+NAME: SOFIYA S
+COMPANY: CODTECH IT SOLUTIONS
+ID:CT08DS1643
+DOMAIN:CYPER SECURITY AND ETHICAL HACKING
+DURATION:5TH JUNE 2024 TO 5TH JULY 2024
+MENTOR:SRAVANI G
+  # Password Strength Checker 💪🔐
  
 
 Welcome to the Password Strength Checker project! This powerful tool is designed to help you assess the strength of your passwords and ensure your online security.
